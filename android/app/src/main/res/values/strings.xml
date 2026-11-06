@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HeavyMetal Workouts</string>
+    <string name="title_activity_main">HeavyMetal Workouts</string>
+    <string name="package_name">com.heavymetal.workouts</string>
+    <string name="custom_url_scheme">com.heavymetal.workouts</string>
+</resources>

@@ -1,0 +1,8 @@
+node_modules/
+dist/
+android/local.properties
+android/.gradle/
+android/**/build/
+android/captures/
+android/.idea/
+*.iml
